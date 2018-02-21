@@ -7,4 +7,4 @@ How do you find your way at sea? How do we navigate? Are there maps of the sea a
 
 Got to the [Presentation](maptime-ams.github.com/hydrography)
 
-Got to the [Workshop](/qgis-workshop/)
+Got to the [Workshop](https://github.com/maptime-ams/hydrography/tree/master/qgis_tutorial)
